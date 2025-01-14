@@ -1,0 +1,12 @@
+name: sandbox-smolagents
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - pip:
+    - python-dotenv
+    - smolagents
