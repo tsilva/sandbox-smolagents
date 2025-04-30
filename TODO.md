@@ -1,0 +1,2 @@
+- https://www.anthropic.com/research/building-effective-agents
+- https://huggingface.co/blog/smolervlm
