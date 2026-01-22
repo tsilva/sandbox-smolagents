@@ -5,7 +5,7 @@
   [![smolagents](https://img.shields.io/badge/smolagents-HuggingFace-orange.svg)](https://github.com/huggingface/smolagents)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **A sandbox for experimenting with HuggingFace's smolagents - build AI agents that reason, search, and execute code**
+  **🤖 A sandbox for experimenting with HuggingFace's smolagents - build AI agents that reason, search, and execute code**
 
   [smolagents docs](https://github.com/huggingface/smolagents) · [Anthropic agents guide](https://www.anthropic.com/research/building-effective-agents)
 </div>
