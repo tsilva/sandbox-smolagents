@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-smolagents" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-smolagents/main/logo.png" alt="sandbox-smolagents" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![smolagents](https://img.shields.io/badge/smolagents-HuggingFace-orange.svg)](https://github.com/huggingface/smolagents)
