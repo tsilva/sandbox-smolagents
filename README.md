@@ -1,17 +1,19 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-smolagents/main/logo.png" alt="sandbox-smolagents" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🤖 Experiment with Hugging Face agents that reason and use tools 🧪</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![smolagents](https://img.shields.io/badge/smolagents-HuggingFace-orange.svg)](https://github.com/huggingface/smolagents)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🤖 A sandbox for experimenting with HuggingFace's smolagents — build AI agents that reason, search, and execute code 🧪**
-
   [smolagents docs](https://github.com/huggingface/smolagents) · [Anthropic agents guide](https://www.anthropic.com/research/building-effective-agents)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
